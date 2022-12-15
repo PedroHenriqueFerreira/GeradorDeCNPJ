@@ -6,7 +6,7 @@ Este repositório contém o código para a geração de CNPJ's válidos.
 
 ## Primeiros passos
 
-Primeiramente é necessário ter o `Python` em sua máquina.
+Primeiramente é necessário ter o `python` em sua máquina.
 
 ## Execução
 ```
